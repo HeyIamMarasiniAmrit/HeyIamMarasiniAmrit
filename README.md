@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heyiammarasiniamrit&label=Profile%20views&color=0e75b6&style=flat" alt="heyiammarasiniamrit" /> </p>
 
-<p align="left"> <a href="https://twitter.com/amritmarasini" target="blank"><img src="https://img.shields.io/twitter/follow/amritmarasini?logo=twitter&style=for-the-badge" alt="amritmarasini" /></a> </p>
+<p align="left"> <a href="https://twitter.com/https://twitter.com/amrit_twts_" target="blank"><img src="https://img.shields.io/twitter/follow/amritmarasini?logo=twitter&style=for-the-badge" alt="amritmarasini" /></a> </p>
 
 - 🌱 I’m currently learning **C++, Python, Dart(Flutter), Blockchain**
 
@@ -16,9 +16,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@amrit_twts_
+<a href="https://twitter.com/https://twitter.com/amrit_twts_
 " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amritmarasini" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/amrit-marasini-a95175194/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amrit marasini" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/amrit-marasini-a95175194//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amrit marasini" height="30" width="40" /></a>
 <a href="https://fb.com/marasini amrit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="marasini amrit" height="30" width="40" /></a>
 </p>
 
