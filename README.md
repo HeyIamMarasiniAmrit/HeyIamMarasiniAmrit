@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/amrit_twts_" target="blank"><img src="https://img.shields.io/twitter/follow/amritmarasini?logo=twitter&style=for-the-badge" alt="amritmarasini" /></a> </p>
 
-- 🌱 I’m currently learning **C++, Python, Dart(Flutter), Blockchain**
+- 🌱 I’m currently learning **Python(django),Javascript Dart(Flutter), Blockchain,Machine.learning**
 
-- 💬 Ask me about **C, C++, Python, Flutter,Blockchain**
+- 💬 Ask me about **Python, javascript, Flutter,Blockchain,Machine.Learning**
 
 - 📫 How to reach me **amritmaraasi163@gmail.com**
 
-- ⚡ Fun fact **I Think I am Curious**
+- ⚡ Fun fact **I am Curious**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
