@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/amrit_twts_" target="blank"><img src="https://img.shields.io/twitter/follow/amritmarasini?logo=twitter&style=for-the-badge" alt="amritmarasini" /></a> </p>
 
-- 🌱 I’m currently learning **Python(django),Javascript Dart(Flutter), Blockchain,Machine.learning**
+- 🌱 I’m currently learning **Python(django),Javascript, Dart(Flutter), Blockchain,Machine.learning**
 
 - 💬 Ask me about **Python, javascript, Flutter,Blockchain,Machine.Learning**
 
