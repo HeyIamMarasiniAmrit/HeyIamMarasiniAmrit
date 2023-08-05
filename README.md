@@ -1,6 +1,9 @@
-
 <h1 align="center">Hi 👋, I'm Amrit Marasini</h1>
 <h3 align="center">A Passionate Technology developer</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=marasiniamrit&label=Profile%20views&color=0e75b6&style=flat" alt="marasiniamrit" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marasiniamrit" alt="marasiniamrit" /></a> </p>
 
 - 🌱 I’m currently learning **django, blockchain,A.i/M.l**
 
@@ -19,3 +22,10 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/amritmaraasi163@gmail.com"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="amritmaraasi163@gmail.com" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marasiniamrit&show_icons=true&locale=en&layout=compact" alt="marasiniamrit" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marasiniamrit&show_icons=true&locale=en" alt="marasiniamrit" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marasiniamrit&" alt="marasiniamrit" /></p>
+
