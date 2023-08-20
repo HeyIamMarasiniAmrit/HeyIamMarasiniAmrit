@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/amritmarasini" target="blank"><img src="https://img.shields.io/twitter/follow/amritmarasini?logo=twitter&style=for-the-badge" alt="amritmarasini" /></a> </p>
 
-- 🌱 I’m currently learning **Software.Development/blockchain/M.l/A.I**
+- 🌱 I’m currently learning **Software Development/blockchain/M.l/A.I**
 
 - 💬 Ask me about **softwared development,Blockchain,Meachine Learning**
 
