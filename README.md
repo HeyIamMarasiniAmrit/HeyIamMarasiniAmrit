@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amrit Marasini</h1>
 <h3 align="center">A passionate Technology developer</h3>
+https://twitter.com/amrit_twts_/header_photo
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heyiammarasiniamrit&label=Profile%20views&color=0e75b6&style=flat" alt="heyiammarasiniamrit" /> </p>
 
