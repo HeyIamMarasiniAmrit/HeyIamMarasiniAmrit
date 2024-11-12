@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amrit Marasini</h1>
-<h3 align="center">|"Self-taught explorer on a tech journey."</h3>
+<h3 align="center"> " Self-taught explorer on a tech journey. "</h3>
 
 
 
