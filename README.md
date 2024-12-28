@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/amritmarasini" target="blank"><img src="https://img.shields.io/twitter/follow/amritmarasini?logo=twitter&style=for-the-badge" alt="amritmarasini" /></a> </p>
 
-- 🌱 I’m currently learning **Software Development/blockchain/M.l/A.I**
+- 🌱 I’m currently learning **Software Development/blockchain/A.I(M.I)/Game-Development/Cybersecurity**
 
-- 💬 Ask me about **softwared development,Blockchain,Meachine Learning**
+- 💬 Ask me about **softwared development,Blockchain,Meachine Learning,Game-Development,Cybersecurity**
 
 - 📫 How to reach me **amritmaraasi163@gmail.com**
 
