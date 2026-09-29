@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amrit Marasini</h1>
 
-<h3 align="center">🤖 AI & Cybersecurity Enthusiast | 💻 Software Developer</h3>
+<h3 align="center">🤖 AI & Cybersecurity Enthusiast | 💻 </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=heyiammarasiniamrit&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
