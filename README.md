@@ -52,13 +52,7 @@
    ├── Blue Team & SOC
    └── Red Team Operations
 
-💻 Software Engineering
-   ├── Backend Development
-   ├── Full-Stack Development
-   ├── APIs
-   ├── Databases
-   └── System Development
-```
+
 
 ---
 
@@ -89,27 +83,7 @@
 
 ---
 
-## 💻 Software Development
 
-<p align="left">
-  <a href="https://react.dev/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React"/>
-  </a>
-  <a href="https://www.djangoproject.com/">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="45" height="45" alt="Django"/>
-  </a>
-  <a href="https://nodejs.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45" alt="Node.js"/>
-  </a>
-  <a href="https://www.postgresql.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45" alt="PostgreSQL"/>
-  </a>
-  <a href="https://go.dev/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="45" height="45" alt="Go"/>
-  </a>
-</p>
-
-**Focus:** Backend • Full-Stack • APIs • Databases • System Design
 
 ---
 
