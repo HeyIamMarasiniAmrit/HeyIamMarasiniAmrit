@@ -38,7 +38,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="45" height="45" alt="FastAPI"/>
 </p>
 
-**Areas:** Machine Learning • Deep Learning • NLP • LLMs • Generative AI • RAG • AI Agents • Computer Vision • MLOps
+
 
 ---
 
@@ -50,7 +50,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
 </p>
 
-**Areas:** Networking • Linux • Security Fundamentals • Ethical Hacking • Penetration Testing • Web Security • Bug Bounty • Active Directory • Blue Team • SOC • Red Team
+
 
 ---
 
