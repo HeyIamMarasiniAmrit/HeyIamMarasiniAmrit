@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Amrit Marasini</h1>
+# Hi 👋, I'm Amrit Marasini
 
-<h3 align="center">🤖  Artificial Intelligence & Cybersecurity Enthusiast 💻 </h3>
+<h3 align="center">🤖 Artificial Intelligence & Machine Learning Enthusiast 🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=heyiammarasiniamrit&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -16,16 +16,16 @@
 
 ## 🚀 About Me
 
-* 🤖 Focused on **Artificial Intelligence & Machine Learning**
-* 🛡️ Building my skills in **Cybersecurity & Red Teaming**
-* 💻 Experienced in **Software Development & Full-Stack Development**
-* 🧠 Exploring **AI Engineering, LLMs, Generative AI & AI Agents**
-* 🔐 Learning **Networking, Linux, Web Security, Penetration Testing & Enterprise Security**
-* 🛠️ Building practical projects to turn knowledge into real-world skills
-* 🌱 Always learning, experimenting and improving
-* ⚡ **Curiosity drives everything I build.**
+- 🤖 Passionate about **Artificial Intelligence & Machine Learning**
+- 🧠 Exploring **LLMs, Generative AI & AI Agents**
+- 💻 Interested in **Software Development & Full-Stack Development**
+- 🔬 Learning about **Deep Learning, Neural Networks & Natural Language Processing**
+- ⚡ Building **AI-powered applications and intelligent systems**
+- 🛠️ Turning ideas into practical AI projects
+- 🌱 Always learning, experimenting, and improving
+- 🚀 **Curiosity drives everything I build.**
 
-
+---
 
 ## 🧠 AI & Machine Learning
 
@@ -38,37 +38,42 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="45" height="45" alt="FastAPI"/>
 </p>
 
-
-
 ---
 
-## 🛡️ Cybersecurity
+## 🛠️ Technologies & Tools
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="45" height="45" alt="Bash"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" alt="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
 </p>
-
-
-
----
-
-
-
-
 
 ---
 
 ## 🔥 What I'm Building
 
-* 🤖 AI-powered applications
-* 🧠 LLM & Generative AI projects
-* 🔎 RAG-based applications
-* 🛡️ Cybersecurity labs & security tools
-* 🌐 Secure web applications
-* ⚔️ Offensive security projects
-* 🔧 Developer tools & automation
+- 🤖 AI-powered applications
+- 🧠 LLM & Generative AI projects
+- 🔎 Retrieval-Augmented Generation (RAG) applications
+- 🦾 AI agents and intelligent automation
+- 📊 Machine Learning models and data-driven solutions
+- 💬 AI chatbots and NLP applications
+- 🌐 Web applications integrated with AI
+- ⚙️ Developer tools and productivity automation
+
+---
+
+## 🎯 My Current Focus
+
+- 📚 Strengthening Python and Machine Learning fundamentals
+- 🧠 Understanding LLMs and Generative AI
+- 🔗 Exploring RAG, vector databases, and embeddings
+- 🤖 Learning to build AI agents and AI workflows
+- 🚀 Developing and deploying real-world AI applications
 
 ---
 
@@ -103,7 +108,7 @@
 
 ---
 
-<h3 align="center">🤖 Build with AI • 🛡️ Secure with Cybersecurity • </h3>
+<h3 align="center">🤖 Build with AI • 🧠 Innovate with Intelligence • 🚀 Shape the Future</h3>
 
 
 
